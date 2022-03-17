@@ -51,10 +51,10 @@
 </template>
 
 <script>
-import NavigationTabs from "~/components/NavigationTabs"
+import NavigationTabs from '~/components/NavigationTabs'
 
 export default {
-  name: "IndexPage",
+  name: 'IndexPage',
   components: { NavigationTabs },
 }
 </script>

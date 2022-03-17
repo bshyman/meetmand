@@ -38,13 +38,13 @@
 
 <script>
 const tabs = [
-  { name: "Home", href: "#", current: false },
-  { name: "Meet Mand", href: "#", current: false },
-  { name: "Buy Books", href: "#", current: true },
-  { name: "Buy Bows", href: "#", current: false },
-  { name: "Fundraising", href: "#", current: false },
-  { name: "Blog", href: "#", current: false },
-  { name: "Connect", href: "#", current: false },
+  { name: 'Home', href: '#', current: false },
+  { name: 'Meet Mand', href: '#', current: false },
+  { name: 'Buy Books', href: '#', current: true },
+  { name: 'Buy Bows', href: '#', current: false },
+  { name: 'Fundraising', href: '#', current: false },
+  { name: 'Blog', href: '#', current: false },
+  { name: 'Connect', href: '#', current: false },
 ]
 
 export default {
