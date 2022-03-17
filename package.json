@@ -26,6 +26,7 @@
     "vue": "^2.6.14",
     "vue-server-renderer": "^2.6.14",
     "vue-template-compiler": "^2.6.14",
+    "vue-ultimate-skeleton-cards": "^1.0.3",
     "webpack": "^4.46.0"
   },
   "devDependencies": {
@@ -33,13 +34,13 @@
     "@nuxtjs/eslint-config": "^8.0.0",
     "@nuxtjs/eslint-module": "^3.0.2",
     "@nuxtjs/tailwindcss": "^4.2.1",
-    "eslint": "^8.4.1",
+    "eslint": "^5.16.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^8.2.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.1.2",
     "postcss": "^8.4.4",
-    "prettier": "^2.5.1"
+    "prettier": "2.6.0"
   }
 }
